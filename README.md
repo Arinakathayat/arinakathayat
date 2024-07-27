@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arina Kathayat</h1>
+<h1 align="center">Hi 👋, I'm Arina Kathayat🌸</h1>
 <h3 align="center">Computer Engineering student at Far western University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arinakathayat&label=Profile%20views&color=0e75b6&style=flat" alt="arinakathayat" /> </p>
