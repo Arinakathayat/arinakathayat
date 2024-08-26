@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arina Kathayat</h1>
 <h3 align="center">Computer Engineering student at Far western University</h3>
+
+
+
+
 <img align="right" alt="coding" width="400" src="https://i.kym-cdn.com/photos/images/original/002/364/475/5a4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arinakathayat&label=Profile%20views&color=0e75b6&style=flat" alt="arinakathayat" /> </p>
