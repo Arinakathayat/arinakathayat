@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arina Kathayat</h1>
 <h3 align="center">Computer Engineering student at Far western University</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F12113&psig=AOvVaw3qFBU8vSTWX07dcn4iTjv4&ust=1724726466273000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjugvrQkYgDFQAAAAAdAAAAABAU">
+<img align="right" alt="coding" width="400" src="https://i.kym-cdn.com/photos/images/original/002/364/475/5a4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arinakathayat&label=Profile%20views&color=0e75b6&style=flat" alt="arinakathayat" /> </p>
 
