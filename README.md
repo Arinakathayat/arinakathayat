@@ -1,6 +1,8 @@
 ![logo](https://github.com/Arinakathayat/arinakathayat/blob/main/Minimalist%20Girl%20Gamer%20Streaming%20Twitch%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Arina Kathayat</h1>
-<h3 align="center">Computer Engineering student at Far western University</h3>
+<h3 align="center" style="font-family: 'Brush Script MT', cursive;">
+    Computer Engineering student at Far Western University
+</h3>
 
 
 
