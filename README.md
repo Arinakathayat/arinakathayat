@@ -3,7 +3,7 @@
 <h3 align="center" style="font-family: 'Dancing Script', cursive; font-style: italic;">
     Computer Engineering student at Far Western University
 </h3>
-<img align="right" alt="coding" width="400" src="https://i.kym-cdn.com/photos/images/original/002/364/475/5a4.gif">
+<img align="right" alt="coding" width="400" src="https://i.kym-cdn.com/photos/images/original/002/364/475/5a4.gif" style="margin-top: 20px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arinakathayat&label=Profile%20views&color=0e75b6&style=flat" alt="arinakathayat" /> </p>
 
