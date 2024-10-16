@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arinakathayat&label=Profile%20views&color=0e75b6&style=flat" alt="arinakathayat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arinakathayat" alt="arinakathayat" /></a> </p>
-(https://holopin.me/arinakathayat)](https://holopin.io/@arinakathayat)
+
 - 📫 How to reach me **ariasushi01@gmail.com**
 
 - 🌸 hobbies I have a passion for coding and technology, but I also enjoy exploring different hobbies. From hiking in nature to experimenting with new recipes in the kitchen Reading to writing , I believe that balancing work and play keeps life exciting and fulfilling!
@@ -37,3 +37,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arinakathayat&show_icons=true&locale=en" alt="arinakathayat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arinakathayat&" alt="arinakathayat" /></p>
+
+
+[![An image of @arinakathayat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arinakathayat)](https://holopin.io/@arinakathayat)
+
+
+
+
