@@ -22,7 +22,7 @@
 <a href="https://youtube.com/@alinakathayat856?si=n5WMqORLn5U-dk-A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucz9g3d3c-grxzvjae5f9x9g" height="30" width="40" /></a>
 </p>
    
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Come and say, "Hi, I've been dying to meet ya"</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
