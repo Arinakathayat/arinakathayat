@@ -1,6 +1,13 @@
 
 ![logo](https://github.com/Arinakathayat/arinakathayat/blob/main/Minimalist%20Girl%20Gamer%20Streaming%20Twitch%20Banner%20(2).png)
 
+<p align="center">
+  <a href="https://github.com/oraclebrain/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=COMPUTER%20ENGINEER%20STUDENT%20;WEB%20DEVELOPER%20;ARINA%20KATHAYAT%20(AK);PROGRAMMER%20;%20;ALWAYS%20PROUD%20OF%20MYSELF&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
+
 <h1> 
   About Me
   <a href="#--about-me--">
@@ -9,7 +16,10 @@
 
 <h1 align="center">Hi 👋, I'm Arina Kathayat</h1>
 <h3 align="center" style="font-family: 'Dancing Script', cursive; font-style: italic;">
-    
+    <p align="center"> 
+ 🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
+  <img src="https://profile-counter.glitch.me/arinakathayat/count.svg"/>
+      
 Computer Engineering student at Far Western University
 
     
@@ -26,8 +36,10 @@ Computer Engineering student at Far Western University
 
 - ⚡ Fun fact **I was actually a biology student before switching to Computer Engineering field. It's never too late to pursue your passions**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
+   </p>
+<p align="center">
 <a href="https://fb.com/https://www.facebook.com/arina.kathayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arina.kathayat" height="30" width="40" /></a>
 <a href="https://instagram.com/igaria_sushi01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igaria_sushi01" height="30" width="40" /></a>
 <a href="https://youtube.com/@alinakathayat856?si=n5WMqORLn5U-dk-A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucz9g3d3c-grxzvjae5f9x9g" height="30" width="40" /></a>
