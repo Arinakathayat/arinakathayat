@@ -9,7 +9,7 @@
 ![logo](https://github.com/Arinakathayat/arinakathayat/blob/main/Minimalist%20Girl%20Gamer%20Streaming%20Twitch%20Banner%20(2).png)
 
 <p align="center">
-  <a href="https://github.com/oraclebrain/readme-typing-svg">
+  <a href="https://github.com/arinakathayat/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=COMPUTER%20ENGINEER%20STUDENT%20;WEB%20DEVELOPER%20;ARINA%20KATHAYAT%20(AK);PROGRAMMER%20;%20;ALWAYS%20PROUD%20OF%20MYSELF&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
