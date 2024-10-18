@@ -8,6 +8,7 @@
 </p>
 
 
+
 <h1> 
   About Me
   <a href="#--about-me--">
@@ -30,11 +31,32 @@ Computer Engineering student at Far Western University
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arinakathayat" alt="arinakathayat" /></a> </p>
 
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arinakathayat&theme=shadow_green&layout=compact"width="48%"/> 
+</p>  
+
+<!---
+<a href="https://github.com/arinakathayat/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arinakathayat&repo=github-readme-stats&theme=shadow_green" />
+</a>
+----------->
+<p align="center">
+  <a href="https://github.com/arinakathayat?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=arinakathayat&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@arinakathayat's github-readme-stats">
+  </a>
+  <a href="https://github.com/arinakathayat?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=arinakathayat&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
+  </a>
+</p>
+<br/>
+
 - 📫 How to reach me **ariasushi01@gmail.com**
 
 - 🌸 hobbies I have a passion for coding and technology, but I also enjoy exploring different hobbies. From hiking in nature to experimenting with new recipes in the kitchen Reading to writing , I believe that balancing work and play keeps life exciting and fulfilling!
 
 - ⚡ Fun fact **I was actually a biology student before switching to Computer Engineering field. It's never too late to pursue your passions**
+  
 
 <p align="center">
   🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
