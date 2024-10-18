@@ -1,3 +1,10 @@
+<h1> 
+  About Me
+  <a href="#--about-me--">
+    <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width = 35px height = 35px>
+  </a>
+
+<h1 align="center">Hi 👋, I'm Arina Kathayat</h1>
 
 ![logo](https://github.com/Arinakathayat/arinakathayat/blob/main/Minimalist%20Girl%20Gamer%20Streaming%20Twitch%20Banner%20(2).png)
 
@@ -8,14 +15,6 @@
 </p>
 
 
-
-<h1> 
-  About Me
-  <a href="#--about-me--">
-    <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width = 35px height = 35px>
-  </a>
-
-<h1 align="center">Hi 👋, I'm Arina Kathayat</h1>
 <h3 align="center" style="font-family: 'Dancing Script', cursive; font-style: italic;">
     <p align="center"> 
  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
