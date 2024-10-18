@@ -267,12 +267,6 @@ Computer Engineering student at Far Western University
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arinakathayat&show_icons=true&locale=en&layout=compact" alt="arinakathayat" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arinakathayat&show_icons=true&locale=en" alt="arinakathayat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arinakathayat&" alt="arinakathayat" /></p>
-
 
 [![An image of @arinakathayat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arinakathayat)](https://holopin.io/@arinakathayat)
 
