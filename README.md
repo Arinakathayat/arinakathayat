@@ -20,15 +20,14 @@
   </a>
 </p>
 
+## 🏆 Github Profile Trophy 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-ten.vercel.app/?username=arinakathayat&column=5&theme=radical&margin-w=15&margin-h=15" alt="arinakathayat" /></a></p>
 
-<h3 align="center" style="font-family: 'Dancing Script', cursive; font-style: italic;">
-  
+<br/>
+<br/>
+	
+<a href="#">
 
-    
-
-<div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=arinakathayat&no-bg=true&no-frame=true&row=2&column=3"/>
-</div>
 <p align="center">
   <a href="https://github.com/arinakathayat?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=arinakathayat&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@arinakathayat's github-readme-stats">
