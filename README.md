@@ -26,8 +26,6 @@
 Computer Engineering student at Far Western University
 
     
-</h3>
-<img align="right" alt="coding" width="400" src="https://i.kym-cdn.com/photos/images/original/002/364/475/5a4.gif" style="margin-top: 20px;">
 
 <div align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=arinakathayat&no-bg=true&no-frame=true&row=2&column=3"/>
