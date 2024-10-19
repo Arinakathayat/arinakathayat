@@ -23,7 +23,6 @@
 
 <h3 align="center" style="font-family: 'Dancing Script', cursive; font-style: italic;">
   
-Computer Engineering student at Far Western University
 
     
 
