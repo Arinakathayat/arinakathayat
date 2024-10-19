@@ -50,13 +50,6 @@ Computer Engineering student at Far Western University
 </p>
 <br/>
 
-- 📫 How to reach me **ariasushi01@gmail.com**
-
-- 🌸 hobbies I have a passion for coding and technology, but I also enjoy exploring different hobbies. From hiking in nature to experimenting with new recipes in the kitchen Reading to writing , I believe that balancing work and play keeps life exciting and fulfilling!
-
-- ⚡ Fun fact **I was actually a biology student before switching to Computer Engineering field. It's never too late to pursue your passions**
-  
-
 <p align="center">
   🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
    </p>
