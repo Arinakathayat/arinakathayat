@@ -16,17 +16,18 @@
 
 
 <h3 align="center" style="font-family: 'Dancing Script', cursive; font-style: italic;">
-    <p align="center"> 
- 🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
-  <img src="https://profile-counter.glitch.me/arinakathayat/count.svg"/>
-      
+  
 Computer Engineering student at Far Western University
 
     
 </h3>
 <img align="right" alt="coding" width="400" src="https://i.kym-cdn.com/photos/images/original/002/364/475/5a4.gif" style="margin-top: 20px;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arinakathayat&label=Profile%20views&color=0e75b6&style=flat" alt="arinakathayat" /> </p>
+<p align="center"> 
+  
+  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
+  
+  <img src="https://komarev.com/ghpvc/?username=arinakathayat&label=Profile%20views&color=0e75b6&style=flat" alt="arinakathayat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arinakathayat" alt="arinakathayat" /></a> </p>
 
@@ -59,6 +60,7 @@ Computer Engineering student at Far Western University
 <a href="https://instagram.com/igaria_sushi01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igaria_sushi01" height="30" width="40" /></a>
 <a href="https://youtube.com/@alinakathayat856?si=n5WMqORLn5U-dk-A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucz9g3d3c-grxzvjae5f9x9g" height="30" width="40" /></a>
 </p>
+
    
 <h3 align="center">Come and say, "Hi, I've been dying to meet ya"</h3>
 
