@@ -43,9 +43,6 @@ Computer Engineering student at Far Western University
   
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arinakathayat&theme=transparent" height="180em" alt="Commitments"/>
 </div>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
-</p>
 <!---
 <a href="https://github.com/arinakathayat/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arinakathayat&repo=github-readme-stats&theme=shadow_green" />
