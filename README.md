@@ -60,6 +60,7 @@ Computer Engineering student at Far Western University
 <p align="center">
   🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
    </p>
+   
 <p align="center">
 <a href="https://fb.com/https://www.facebook.com/arina.kathayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arina.kathayat" height="30" width="40" /></a>
 <a href="https://instagram.com/igaria_sushi01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igaria_sushi01" height="30" width="40" /></a>
@@ -114,7 +115,6 @@ Computer Engineering student at Far Western University
     </td>
     <td align="center" width="90">
     </td>
-  </tr>
 </table>
 
 <h2>
@@ -154,7 +154,6 @@ Computer Engineering student at Far Western University
         <a href="https://threejs.org/" target="_blank"><img alt="Three.js" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/three.js.svg" /></a>
         <br><h4>$\textsf{\color{#ff3845}{Three.js}}$</h4>
     </td>
-  </tr>
 </table>
 
 <h2>
@@ -263,7 +262,6 @@ Computer Engineering student at Far Western University
 
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 <br/><br/>
-
 
 
 
