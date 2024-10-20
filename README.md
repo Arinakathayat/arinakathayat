@@ -41,6 +41,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arinakathayat&repo=github-readme-stats&theme=shadow_green" />
 </a>
 ----------->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arinakathayat&theme=shadow_blue&layout=compact"width="48%"/> 
+</p>  
 
   <a href="https://github.com/arinakathayat?tab=stars">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=arinakathayat&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
