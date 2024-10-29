@@ -33,24 +33,13 @@
   <a href="https://github.com/arinakathayat?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=arinakathayat&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@arinakathayat's github-readme-stats">
   </a>
-# Languages Used
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arinakathayat&layout=compact&theme=transparent)
-
  
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arinakathayat&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
   
   
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arinakathayat&theme=transparent" height="180em" alt="Commitments"/>
 </div>
-<!---
-<a href="https://github.com/arinakathayat/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arinakathayat&repo=github-readme-stats&theme=shadow_green" />
-</a>
------------>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arinakathayat&theme=shadow_blue&layout=compact"width="48%"/> 
-</p>  
+  
 
   <a href="https://github.com/arinakathayat?tab=stars">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=arinakathayat&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
