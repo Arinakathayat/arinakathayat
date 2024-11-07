@@ -1,6 +1,5 @@
 <p align="center"> 
 	
-
   🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
   
   <img src="https://komarev.com/ghpvc/?username=arinakathayat&label=Profile%20views&color=0e75b6&style=flat" alt="arinakathayat" /> </p>
@@ -29,10 +28,7 @@
 	
 <a href="#">
 
-<p align="center">
-  <a href="https://github.com/arinakathayat?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=arinakathayat&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@arinakathayat's github-readme-stats">
-  </a>
+
  
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arinakathayat&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
   
