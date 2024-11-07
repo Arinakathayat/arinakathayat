@@ -1,11 +1,6 @@
 <p align="center"> 
 
- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arinakathayat&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  
-  
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arinakathayat&theme=transparent" height="180em" alt="Commitments"/>
-</div>
-  
+
   🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
   
   <img src="https://komarev.com/ghpvc/?username=arinakathayat&label=Profile%20views&color=0e75b6&style=flat" alt="arinakathayat" /> </p>
