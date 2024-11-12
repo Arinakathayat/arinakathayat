@@ -1,5 +1,5 @@
-<p align="center"> 
 
+<a href="#--about-me--"><img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=arinakathayat&data=followers,repositories,stars,commits&theme=light"></a>
 
   🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
   
