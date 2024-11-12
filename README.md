@@ -1,17 +1,15 @@
 
-<a href="#--about-me--"><img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=arinakathayat&data=followers,repositories,stars,commits&theme=light"></a>
 
   🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
   
   <img src="https://komarev.com/ghpvc/?username=arinakathayat&label=Profile%20views&color=0e75b6&style=flat" alt="arinakathayat" /> </p>
-
 <h1> 
   About Me
   <a href="#--about-me--">
     <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width = 35px height = 35px>
   </a>
 
-<h1 align="center">Hi 👋, I'm Arina Kathayat</h1>
+<a href="#--about-me--"><img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=arinakathayat&data=followers,repositories,stars,commits&theme=light"></a>
 
 ![logo](https://github.com/Arinakathayat/arinakathayat/blob/main/Minimalist%20Girl%20Gamer%20Streaming%20Twitch%20Banner%20(2).png)
 
